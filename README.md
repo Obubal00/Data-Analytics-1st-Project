@@ -35,7 +35,7 @@ This project demonstrates professional data cleaning and analysis skills using G
 - **Revenue Concentration:** Top 20% of customers generate [X]% of revenue
 
 ## 📊 Visualizations Created
-- ![Screenshot of chart](chart.png)
+- ![Screenshot of chart](https://github.com/Obubal00/Data-Analytics-1st-Project/blob/main/Screenshot.png)
 - Bar chart showing active customers by state
 - Pie chart showing customer tier distribution
 - Line chart showing signup trends
